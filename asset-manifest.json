@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-form/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-form/static/js/main.1ea36563.chunk.js",
+    "main.js.map": "/react-form/static/js/main.1ea36563.chunk.js.map",
+    "runtime-main.js": "/react-form/static/js/runtime-main.a87e0d6f.js",
+    "runtime-main.js.map": "/react-form/static/js/runtime-main.a87e0d6f.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/react-form/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.12e4bc32.chunk.js": "/react-form/static/js/2.12e4bc32.chunk.js",
+    "static/js/2.12e4bc32.chunk.js.map": "/react-form/static/js/2.12e4bc32.chunk.js.map",
+    "static/js/3.4ceaa82e.chunk.js": "/react-form/static/js/3.4ceaa82e.chunk.js",
+    "static/js/3.4ceaa82e.chunk.js.map": "/react-form/static/js/3.4ceaa82e.chunk.js.map",
+    "index.html": "/react-form/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/react-form/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-form/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.12e4bc32.chunk.js.LICENSE.txt": "/react-form/static/js/2.12e4bc32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87e0d6f.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.12e4bc32.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1ea36563.chunk.js"
+  ]
+}
